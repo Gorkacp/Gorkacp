@@ -62,10 +62,6 @@ Let me introduce myself :girl:
 
 <br> <br>
 
-🌟 STAR THE REPOS IF YOU LIKE 🌟
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gorkacp" alt="IsratIJK" /></p>
-
 </div>
 
 <br><br>
