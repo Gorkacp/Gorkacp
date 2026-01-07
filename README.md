@@ -1,84 +1,115 @@
-<h2 align="center">
-  👋 Hola, soy Gorka Carmona Pino
-</h2>
+<h1 align="center">
+  👋 Gorka Carmona Pino
+</h1>
 
 <h3 align="center">
-  Desarrollador Full-Stack Web <br><br>
-
-  <a href="https://portafolio-gorka.vercel.app" target="_blank">
-    🌐 Portfolio profesional
-  </a>
-  <br><br>
-
-  <a href="https://github.com/Gorkacp" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gorkacp?label=GitHub%20Followers&style=for-the-badge">
-  </a>
-  <br><br>
-
-  <a href="https://github.com/Gorkacp" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Gorkacp&label=Profile%20Views&color=brightgreen&style=flat-square" alt="GitHub profile views" />
-  </a>
+  Desarrollador Full-Stack Web
 </h3>
 
-<details align="center">
-  <summary>🏆 GitHub Trophies</summary>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=Gorkacp&theme=gruvbox"/>
-    </a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://portafolio-gorka.vercel.app" target="_blank">
+    🔗 <strong>Portfolio profesional</strong> — Proyectos reales, código y demos
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gorka-carmona-pino-803902294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Gorkacp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Gorkacp-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gorkacp&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
-### 👨‍💻 Sobre mí
+## 👨‍💻 Perfil Profesional
 
-Desarrollador **Full-Stack Web** con experiencia sólida en **Frontend**, especialmente en **Vue.js y Nuxt 3**, y conocimientos en **React y Next.js**, utilizados en el desarrollo de proyectos personales y mi portfolio profesional.
+Desarrollador **Full-Stack Web** con experiencia sólida en **Frontend**, especialmente en **Vue.js y Nuxt 3**, y conocimientos en **React y Next.js**, tecnologías que he utilizado para desarrollar mi **portfolio profesional**, donde se pueden consultar todos mis proyectos:
 
-Cuento con experiencia en **Backend** trabajando con **Java, PHP, Laravel, Spring Boot y Node.js**, desarrollando **APIs REST**, gestionando bases de datos **MySQL, Oracle y MongoDB**, y aplicando buenas prácticas de **código limpio, escalable y mantenible**.
+👉 **https://portafolio-gorka.vercel.app**
 
-Estoy especialmente interesado en la **optimización SEO**, el **rendimiento web** y la **experiencia de usuario**, utilizando tecnologías modernas como **SSR** y **metadatos dinámicos** para mejorar la visibilidad y usabilidad de las aplicaciones.
+Cuento con experiencia en **Backend** trabajando con **Java, PHP, Laravel, Spring Boot y Node.js**, así como en el desarrollo de **APIs REST**, gestión de bases de datos **MySQL, Oracle y MongoDB**, y aplicación de buenas prácticas de **código limpio, mantenible y escalable**.
 
-Mi objetivo es seguir creciendo como **desarrollador Full-Stack**, aportando valor a proyectos que combinen frontend moderno, backend robusto y productos digitales de alto impacto.
+Trabajo habitualmente con **Git/GitHub** para control de versiones y colaboración, y con **Docker** para la configuración de entornos de desarrollo y despliegues **eficientes, reproducibles y profesionales**.
 
----
+Me considero una persona apasionada por la **optimización SEO**, el **rendimiento web** y la **experiencia de usuario**, aplicando tecnologías modernas como **Server-Side Rendering (SSR)** y **metadatos dinámicos** para mejorar la visibilidad, accesibilidad y usabilidad de las aplicaciones.
 
-<h2 align="center">
-  🛠️ Tecnologías y Lenguajes
-</h2>
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Mi objetivo es seguir creciendo como **Desarrollador Full-Stack**, aportando valor a proyectos que combinen **frontend moderno**, **backend escalable** y **experiencias de usuario excepcionales**, contribuyendo activamente al éxito de productos digitales de alto impacto.
 
 ---
 
-<div align="center">
+## 🛠️ Tecnologías y Stack
 
-### ⚡ Dato personal
-Apasionado por el desarrollo, el aprendizaje continuo y la mejora constante tanto a nivel técnico como profesional.
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,html,css,js,sass,tailwind,bootstrap" />
+</p>
 
-<h2>📫 Conecta conmigo</h2>
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gorka-carmona-pino-803902294/)
-
-</div>
+- Vue.js · Nuxt 3  
+- React · Next.js  
+- HTML5 · CSS3 · JavaScript  
+- Sass · Tailwind CSS · Bootstrap  
+- SEO técnico · Metadatos dinámicos · SSR  
 
 ---
 
-**© Gorka Carmona Pino**  
-Última actualización: 23/10/2024
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,nodejs" />
+</p>
+
+- Java · Spring Boot  
+- PHP · Laravel  
+- Node.js  
+- Desarrollo de APIs REST  
+- Arquitecturas escalables y mantenibles  
+
+---
+
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+- MySQL  
+- Oracle  
+- MongoDB  
+
+---
+
+### 🚀 DevOps y Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+- Git · GitHub  
+- Docker  
+- Linux  
+- Visual Studio Code  
+- Integración y despliegue de aplicaciones  
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="https://www.linkedin.com/in/gorka-carmona-pino-803902294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Desarrollo, aprendizaje continuo y mejora constante.</em>
+</p>
+
+<p align="center">
+  © Gorka Carmona Pino
+</p>
+
