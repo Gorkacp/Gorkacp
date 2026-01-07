@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Web Developer
+  Desarrollador Full-Stack Web
 </h3>
 
 <p align="center">
   <a href="https://portafolio-gorka.vercel.app" target="_blank">
-    <strong>Portfolio profesional</strong> — Proyectos reales, arquitectura, frontend y backend
+    <strong>Portfolio profesional</strong> — Proyectos reales, frontend, backend y arquitectura
   </a>
 </p>
 
@@ -27,25 +27,25 @@
 
 ---
 
-## Professional Profile
+## Perfil Profesional
 
-Full-Stack Web Developer with solid experience in **Frontend**, especially **Vue.js and Nuxt 3**, and knowledge of **React and Next.js**, technologies used to develop my **professional portfolio**, where all my projects can be explored in detail:
+Desarrollador **Full-Stack Web** con experiencia sólida en **Frontend**, especialmente en **Vue.js y Nuxt 3**, y conocimientos en **React y Next.js**, tecnologías empleadas en el desarrollo de mi **portfolio profesional**, donde se pueden consultar todos mis proyectos:
 
 👉 **https://portafolio-gorka.vercel.app**
 
-I have experience in **Backend development** working with **Java, PHP, Laravel, Spring Boot and Node.js**, including the design and implementation of **RESTful APIs**, database management with **MySQL, Oracle and MongoDB**, and the application of **clean, maintainable and scalable code practices**.
+Cuento con experiencia en **Backend** trabajando con **Java, PHP, Laravel, Spring Boot y Node.js**, desarrollando **APIs REST**, gestionando bases de datos **MySQL, Oracle y MongoDB**, y aplicando principios de **código limpio, mantenible y escalable**.
 
-I work comfortably with **Git/GitHub** for version control and collaborative workflows, and I use **Docker** to configure development and deployment environments that are **efficient, reproducible and production-ready**.
+Trabajo de forma habitual con **Git/GitHub** para control de versiones y colaboración en equipo, y utilizo **Docker** para la configuración de entornos de desarrollo y despliegue **eficientes, reproducibles y orientados a producción**.
 
-I am particularly focused on **SEO optimization**, **web performance**, and **user experience**, applying modern techniques such as **Server-Side Rendering (SSR)** and **dynamic metadata management** to improve visibility, accessibility and overall application quality.
+Estoy especialmente enfocado en la **optimización SEO**, el **rendimiento web** y la **experiencia de usuario**, aplicando técnicas modernas como **Server-Side Rendering (SSR)** y **gestión dinámica de metadatos**, con el objetivo de mejorar la visibilidad, accesibilidad y calidad global de las aplicaciones.
 
-My goal is to continue growing as a **Full-Stack Developer**, contributing value to projects that combine **modern frontend**, **robust backend architectures**, and **high-quality user experiences**, helping build scalable and impactful digital products.
+Mi objetivo profesional es seguir creciendo como **Desarrollador Full-Stack**, aportando valor a proyectos que combinen **frontend moderno**, **backend robusto** y **experiencias de usuario de alto nivel**, contribuyendo al desarrollo de productos digitales escalables y de alto impacto.
 
 ---
 
-## Technology Stack
+## Tecnologías y Stack
 
-### Frontend Development
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,html,css,js,ts,sass,tailwind,bootstrap" />
 </p>
@@ -58,7 +58,7 @@ My goal is to continue growing as a **Full-Stack Developer**, contributing value
 
 ---
 
-### Backend Development
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs" />
 </p>
@@ -66,12 +66,12 @@ My goal is to continue growing as a **Full-Stack Developer**, contributing value
 - Java · Spring Boot  
 - PHP · Laravel  
 - Node.js  
-- REST API design  
-- Clean architecture & scalable services  
+- Diseño y desarrollo de APIs REST  
+- Arquitecturas escalables y mantenibles  
 
 ---
 
-### Databases
+### Bases de Datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
@@ -82,14 +82,14 @@ My goal is to continue growing as a **Full-Stack Developer**, contributing value
 
 ---
 
-### DevOps & Tooling
+### DevOps y Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,jenkins,linux,vscode,maven" />
 </p>
 
 - Git · GitHub  
 - Docker  
-- AWS (fundamentals)  
+- Amazon Web Services (AWS)  
 - Jenkins  
 - Maven  
 - Linux  
@@ -97,29 +97,33 @@ My goal is to continue growing as a **Full-Stack Developer**, contributing value
 
 ---
 
-## Licenses & Certifications
+## Licencias y Certificaciones
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,python,aws,jenkins,mongodb,spring,angular,ts,js,sass,react,laravel" />
+</p>
 
 **OpenWebinars**
 
-- Introducción a Docker (jul. 2025)  
-- Certificación Python PCEP – Certified Entry-Level Python Programmer (jun. 2025)  
-- Curso de Amazon Web Services (AWS) para desarrolladores (jun. 2025)  
-- Jenkins: Escalando con Workers en Google Cloud (jun. 2025)  
-- Curso de Maven (jun. 2025)  
-- MongoDB: Creación y gestión de bases de datos NoSQL (jun. 2025)  
-- Desarrollo de una aplicación web con Spring Boot (jun. 2025)  
-- Fundamentos de Angular (jun. 2025)  
-- TypeScript (jun. 2025)  
-- JavaScript: Web API, Componentes y Testing (mar. 2025)  
-- Curso de Sass (feb. 2025)  
-- Fundamentos de React (feb. 2025)  
-- Desarrollo Web Moderno con Laravel (ene. 2025)  
-- Dominando ChatGPT con la API de OpenAI (oct. 2024)  
-- Fundamentos de JavaScript (oct. 2024)  
+- Introducción a Docker (julio 2025)  
+- Certificación Python PCEP – Certified Entry-Level Python Programmer (junio 2025)  
+- Curso de Amazon Web Services (AWS) para desarrolladores (junio 2025)  
+- Jenkins: Escalando con Workers en Google Cloud (junio 2025)  
+- Curso de Maven (junio 2025)  
+- MongoDB: Creación y gestión de bases de datos NoSQL (junio 2025)  
+- Desarrollo de una aplicación web con Spring Boot (junio 2025)  
+- Fundamentos de Angular (junio 2025)  
+- TypeScript (junio 2025)  
+- JavaScript: Web API, Componentes y Testing (marzo 2025)  
+- Curso de Sass (febrero 2025)  
+- Fundamentos de React (febrero 2025)  
+- Desarrollo Web Moderno con Laravel (enero 2025)  
+- Dominando ChatGPT con la API de OpenAI (octubre 2024)  
+- Fundamentos de JavaScript (octubre 2024)  
 
 ---
 
-## Contact
+## Contacto
 
 <p>
   <a href="https://www.linkedin.com/in/gorka-carmona-pino-803902294/" target="_blank">
@@ -128,7 +132,7 @@ My goal is to continue growing as a **Full-Stack Developer**, contributing value
 </p>
 
 <p align="center">
-  <em>Continuous learning, clean code and professional growth.</em>
+  <em>Desarrollo profesional, aprendizaje continuo y código de calidad.</em>
 </p>
 
 <p align="center">
